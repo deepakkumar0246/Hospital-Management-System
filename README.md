@@ -3,67 +3,43 @@
 A Hospital Management System is software that streamlines hospital operations by managing patient records, appointments, billing, staff details, pharmacy, and reports. It reduces paperwork, improves accuracy, enhances communication between departments, and ensures faster, quality patient care.
 
 
-⭐ Hospital Management System – Key Features
-1️🏥 Patient Management
+📋 Features
+👨‍⚕️ Patient Management
 
 Add new patient records
 
 Update patient details
 
-View complete patient information
+View complete medical and personal information
 
-Maintain admission, treatment, and personal data
+🏨 Room & Department Handling
 
-2️⃣🏥 Employee Management
+Manage hospital room availability
 
-Store and view details of all hospital employees
+Assign or search rooms easily
 
-Employee roles (doctor, nurse, staff) tracking
+Maintain department details
 
-3️⃣🏥 Room & Bed Management
+🚑 Ambulance & Emergency Management
 
-Manage room availability (ICU/General/Private)
+Track ambulance availability
 
-Assign and update patient room numbers
+Manage emergency movements
 
-Search room status easily
+🧾 Patient Discharge Module
 
-4️⃣🏥 Ambulance Management
+Process discharge records
 
-Track hospital ambulance availability
+Update patient status and room availability
 
-Manage emergency ambulance requests
+🧑‍💼 Employee Information
 
-View driver and vehicle details
+View all employee data
 
-5️⃣ 🏥 Department Management
+Manage doctor and staff information
 
-List of all hospital departments
+💻 User-Friendly Dashboard
 
-Assign patients and staff to respective departments
+Simple and intuitive interface
 
-6️⃣ 🏥 Patient Discharge Module
-
-Process patient discharge
-
-Generate discharge summaries
-
-Update bed/room availability automatically
-
-7️⃣🏥 Appointment/Patient Info Module
-
-View patient treatment history
-
-Complete patient profile with doctor & department assigned
-
-8️⃣🏥 Secure Login / Logout
-
-User authentication for safe access
-
-Logout button for secure session handling
-
-9️⃣🏥 User-Friendly Dashboard
-
-Simple, clean interface with buttons for quick navigation
-
-Attractive medical-themed visuals
+Easy navigation using button-based modules
