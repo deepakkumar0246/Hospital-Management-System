@@ -6,37 +6,37 @@ A Hospital Management System is software that streamlines hospital operations by
 # 📋 Features
 👨‍⚕️ Patient Management
 
-Add new patient records
+● Add new patient records
 
-Update patient details
+● Update patient details
 
-View complete medical and personal information
+● View complete medical and personal information
 
 # 🏨 Room & Department Handling
 
-Manage hospital room availability
+● Manage hospital room availability
 
-Assign or search rooms easily
+● Assign or search rooms easily
 
-Maintain department details
+● Maintain department details
 
 # 🚑 Ambulance & Emergency Management
 
-Track ambulance availability
+● Track ambulance availability
 
-Manage emergency movements
+● Manage emergency movements
 
  # 🧾 Patient Discharge Module
 
-Process discharge records
+● Process discharge records
 
-Update patient status and room availability
+● Update patient status and room availability
 
 # 🧑‍💼 Employee Information
 
-View all employee data
+● View all employee data
 
-Manage doctor and staff information
+● Manage doctor and staff information
 
 # 💻 User-Friendly Dashboard
 
