@@ -4,7 +4,7 @@ A Hospital Management System is software that streamlines hospital operations by
 
 
 # 📋 Features
-👨‍⚕️ Patient Management
+** 👨‍⚕️ Patient Management **
 
 ● Add new patient records
 
