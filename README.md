@@ -3,30 +3,67 @@
 A Hospital Management System is software that streamlines hospital operations by managing patient records, appointments, billing, staff details, pharmacy, and reports. It reduces paperwork, improves accuracy, enhances communication between departments, and ensures faster, quality patient care.
 
 
-🔧 Technologies Used
+⭐ Hospital Management System – Key Features
+1️🏥 Patient Management
 
-Language: Java
+Add new patient records
 
-IDE: IntelliJ IDEA
+Update patient details
 
-Database: MySQL (JDBC Connection)
+View complete patient information
 
-✅ Key Features
+Maintain admission, treatment, and personal data
 
-Patient registration and management
+2️⃣🏥 Employee Management
 
-Doctor details and scheduling
+Store and view details of all hospital employees
 
-Appointment booking system
+Employee roles (doctor, nurse, staff) tracking
 
-Medical records management
+3️⃣🏥 Room & Bed Management
 
-Billing and payment processing
+Manage room availability (ICU/General/Private)
 
-Admin panel for managing data
+Assign and update patient room numbers
 
-Role-based login (Admin/Staff)
+Search room status easily
 
-🎯 Purpose
+4️⃣🏥 Ambulance Management
 
-To automate hospital tasks and provide a smooth, reliable, and user-friendly system for managing healthcare operations.
+Track hospital ambulance availability
+
+Manage emergency ambulance requests
+
+View driver and vehicle details
+
+5️⃣ 🏥 Department Management
+
+List of all hospital departments
+
+Assign patients and staff to respective departments
+
+6️⃣ 🏥 Patient Discharge Module
+
+Process patient discharge
+
+Generate discharge summaries
+
+Update bed/room availability automatically
+
+7️⃣🏥 Appointment/Patient Info Module
+
+View patient treatment history
+
+Complete patient profile with doctor & department assigned
+
+8️⃣🏥 Secure Login / Logout
+
+User authentication for safe access
+
+Logout button for secure session handling
+
+9️⃣🏥 User-Friendly Dashboard
+
+Simple, clean interface with buttons for quick navigation
+
+Attractive medical-themed visuals
