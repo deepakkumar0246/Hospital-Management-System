@@ -39,6 +39,14 @@ A Hospital Management System is software that streamlines hospital operations by
 ● Manage doctor and staff information
 
 
+# 💻 User-Friendly Dashboard
+
+● Simple and intuitive interface
+
+● Easy navigation using button-based modules
+
+# 🖥️ System Requirements
+
 | **Component**        | **Requirement**                 |
 | -------------------- | ------------------------------- |
 | **Operating System** | Windows / Linux / macOS         |
@@ -47,9 +55,3 @@ A Hospital Management System is software that streamlines hospital operations by
 | **JDBC Driver**      | MySQL Connector/J               |
 | **IDE**              | **IntelliJ IDEA** (recommended) |
 
-
-# 💻 User-Friendly Dashboard
-
-● Simple and intuitive interface
-
-● Easy navigation using button-based modules
