@@ -40,6 +40,6 @@ A Hospital Management System is software that streamlines hospital operations by
 
 # 💻 User-Friendly Dashboard
 
-Simple and intuitive interface
+● Simple and intuitive interface
 
-Easy navigation using button-based modules
+● Easy navigation using button-based modules
