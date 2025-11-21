@@ -56,6 +56,6 @@ A Hospital Management System is software that streamlines hospital operations by
 
 # PROJECT OVERVIEW
 
-![image alt] (https://github.com/deepakkumar0246/Hospital-Management-System/blob/319961e6e8bdb656ee157c7af02e401a13d6580e/Screenshot%202025-11-14%20231735.png)
+![Screenshot%202025-11-14%20231735](https://github.com/deepakkumar0246/Hospital-Management-System/blob/319961e6e8bdb656ee157c7af02e401a13d6580e/Screenshot%202025-11-14%20231735.png)
 
 
